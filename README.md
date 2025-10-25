@@ -24,11 +24,5 @@ I’m always open to **collaboration, feedback, and code reviews** to grow as a 
 
 ---
 
-## 📈 GitHub Stats
-
-![Hafeez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yumiaura&show_icons=true&theme=radical)
-
----
-
 Thank you for visiting my page ❤️  
 Feel free to follow me and connect!
