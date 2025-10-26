@@ -9,30 +9,45 @@
 
 ## 🚀 About Me
 
-```python
-class FullStackDeveloper:
-    def __init__(self):
-        self.name = "Hafeez Ullah"
-        self.role = "Full Stack Developer"
-        self.specialization = "Laravel Backend"
-        self.location = "Pakistan"
-    
-    def skills(self):
-        return {
-            'backend': ['Laravel', 'Python', 'Flask', 'Django', 'Node.js'],
-            'frontend': ['React', 'React Native', 'JavaScript', 'HTML/CSS'],
-            'database': ['MySQL', 'MongoDB', 'PostgreSQL'],
-            'tools': ['Docker', 'Git', 'Linux']
-        }
-    
-    def say_hi(self):
-        return "Open to collaborations and exciting projects! 🚀"
+I'm a **Full Stack Developer** with strong expertise in **Laravel backend development**. I build robust web applications, RESTful APIs, and scalable systems using modern technologies. Passionate about clean code and creating efficient solutions.
 
-me = FullStackDeveloper()
-🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=laravel,react,js,py,django,flask,nodejs,mysql,mongodb,docker,git,html,css,bootstrap" /> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ullahhafeez321&show_icons=true&theme=radical" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ullahhafeez321&layout=compact&theme=radical" width="41%" /> </p>
-📫 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/hafeez-ullah-75818a317"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://ullahhafeez321.pythonanywhere.com"> <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /> </a> <a href="https://github.com/ullahhafeez321"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-<p align="center"> <i>⚡ Turning coffee into code since 2022</i> </p> ```
+**Specialized in:** Laravel, React, Python, Docker
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,react,js,py,django,flask,nodejs,mysql,mongodb,docker,git,html,css,bootstrap" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ullahhafeez321&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ullahhafeez321&layout=compact&theme=radical" width="41%" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hafeez-ullah-75818a317">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://ullahhafeez321.pythonanywhere.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://github.com/ullahhafeez321">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>⚡ Turning coffee into code since 2022</i>
+</p>
