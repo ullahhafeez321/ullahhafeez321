@@ -23,14 +23,6 @@ I'm a **Full Stack Developer** with strong expertise in **Laravel backend develo
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ullahhafeez321&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ullahhafeez321&layout=compact&theme=radical" width="41%" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
